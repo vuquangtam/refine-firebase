@@ -24,10 +24,11 @@
     "uuid": "^8.3.2"
   },
   "files": [
-    "lib"
+    "lib",
+    "src"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rturan29/refine-firebase.git"
+    "url": "https://github.com/vuquangtam/refine-firebase.git"
   }
 }
